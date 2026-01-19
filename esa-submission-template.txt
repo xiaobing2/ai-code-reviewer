@@ -6,12 +6,10 @@ ESA Pages 大赛作品提交信息
 AI 代码审查助手
 
 【作品访问 URL】
-https://your-pages-url.esa.aliyun.com
-（请替换为你在 ESA Pages 部署后的实际访问地址）
+https://ai-code-reviewer.2b7c6ce6.er.aliyun-esa.net
 
 【GitHub 仓库地址】
-https://github.com/your-username/ai-code-reviewer
-（请替换为你的实际 GitHub 仓库地址）
+https://github.com/xiaobing2/ai-code-reviewer
 
 【作品说明】
 
